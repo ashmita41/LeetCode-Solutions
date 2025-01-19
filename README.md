@@ -29,5 +29,5 @@ I frequently update this repository with:
 - **Tools**: Git, GitHub
 
 ## 💡 Connect with Me
-- [GitHub Profile](https://github.com/ashmita47)
+- [GitHub Profile](https://github.com/ashmita41)
 - [LinkedIn](https://www.linkedin.com/in/ashmitapandey47/)
