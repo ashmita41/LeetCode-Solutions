@@ -17,6 +17,10 @@ Constraints:
 1 <= n <= 231 - 1
 */
 
+// There are more than two approaches to solve this question - first is binary search the better one and the next is linear search which is less recommended
+// Approach to solve       The sum of the first 𝑘 rows is given by the formula for the sum of the first k natural numbers:  sum <= n
+// The best approach on leetcode is different which i will update once i understand that myself
+
 class Solution {
     public int arrangeCoins(int n) {
         long start = 0, end = n; // Use long to avoid overflow
