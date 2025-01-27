@@ -31,3 +31,4 @@ I frequently update this repository with:
 ## 💡 Connect with Me
 - [GitHub Profile](https://github.com/ashmita41)
 - [LinkedIn](https://www.linkedin.com/in/ashmitapandey47/)
+- [Email](ashmitapandey47@gmail.com)
