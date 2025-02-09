@@ -55,7 +55,7 @@ class Solution {
 }
 
 
-// Better Approach using BS and also used the pattern that array is sorted and the diff btw ith number and i+1 will be the total numbers missing till that index if missing no count is more than k then search is left otherwise right and when equal then return k+start (that missing number)
+// Better Approach using Binary Search and also used the pattern that array is sorted and the diff btw ith number and i+1 will be the total numbers missing till that index if missing no count is more than k then search is left otherwise right and when equal then return k+start (that missing number)
 class Solution {
     public int findKthPositive(int[] arr, int k) {
         int start = 0;
