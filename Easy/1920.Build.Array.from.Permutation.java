@@ -31,8 +31,7 @@ The elements in nums are distinct.
 Follow-up: Can you solve it without using an extra space (i.e., O(1) memory)? 
 */
 
-// Solution
-
+// Solution - Brure Force Approach | Time and Space Complexity - O(n)
 class Solution {
     public int[] buildArray(int[] nums) {
         int n = nums.length; 
@@ -45,3 +44,5 @@ class Solution {
         return ans; 
     }
 }
+
+//Best Approach - Recursion by backtracking
