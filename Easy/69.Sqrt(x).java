@@ -30,6 +30,12 @@ public static void main(String args[]){
 }
 
 //My 2nd Solution - Optimised Binary Search
+/* Complexity
+Time complexity:
+The time complexity of this approach is O(logN). It's very efficient because Binary Search reduces the search range by half in each iteration, making the search faster.
+Space complexity:
+The space complexity is O(1), which means the amount of extra memory used is constant, regardless of the input. We only use a few variables to store the search range and the middle value during the computation.
+*/
 
 class Solution {
     public int mySqrt(int num) {
