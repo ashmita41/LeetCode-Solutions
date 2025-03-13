@@ -29,71 +29,29 @@ public static void main(String args[]){
 }
 }
 
-//My 2nd Solution - Binary Search (Returned the Floor of the Number)
+//My 2nd Solution - Optimised Binary Search
+
 class Solution {
-    public int mySqrt(int x) {
-        if (x == 0 || x == 1) {
-            return x;
+    public int mySqrt(int num) {
+        if(num == 1){
+            return 1;
         }
-
-        int start = 0;
-        int end = x;
-        // int result = -1;
-
-        while (start <= end) {
-            int mid = start + (end - start) / 2;
-            
-            // Use long to prevent overflow
-            long square = (long) mid * mid;
-
-            if (square == x) {
-                return mid; // Exact square root found
-            } 
-            else if (square < x) {
-                start = mid + 1;
-            } 
-            else {
-                end = mid - 1;
+        int start = 1,end = num;
+        while(start<=end){
+            double mid = start + (end-start)/2;
+            if(mid*mid == num){
+                return (int)mid;
+            }
+            else if(mid*mid>num){
+                end = (int)mid-1;
+            }
+            else{
+                start = (int)mid+1;
             }
         }
-
-        return end;  // Return the floor of the square root
+        return end;
     }
 }
 
-
-// ALso we can return like this while using binary search
-class Solution {
-    public int mySqrt(int x) {
-        if (x == 0 || x == 1) {
-            return x;
-        }
-
-        int start = 0;
-        int end = x;
-        int result = -1;
-
-        while (start <= end) {
-            int mid = start + (end - start) / 2;
-            
-            // Use long to prevent overflow
-            long square = (long) mid * mid;
-
-            if (square == x) {
-                return mid; // Exact square root found
-            } 
-            else if (square < x) {
-                result = mid;  // Store potential result
-                start = mid + 1;
-            } 
-            else {
-                end = mid - 1;
-            }
-        }
-
-        return result;  // Return the floor of the square root
-    }
-}
-
-// Worst Approach is using linear search (for loop) - dont use it, that is a brute force approach and try to optimise your solution as much as you can
+// Brute Force Approach is using linear search (for loop) - try to optimise your solution as much as you can
 // Cheers, Happy Coding!
