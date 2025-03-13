@@ -35,6 +35,11 @@ Constraints:
  */
 
 // Using binary search is the best approach to solve this question
+/* Complexity
+Time complexity: O(log n): Binary search reduces the search space by half in each iteration.
+Space complexity: O(1): No extra space is used apart from a few variables.
+*/
+
 public class Solution extends GuessGame {
     public int guessNumber(int n) {
         int start = 1;
