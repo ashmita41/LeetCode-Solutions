@@ -39,6 +39,7 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -47,6 +48,7 @@ I frequently update this repository with:
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
@@ -63,4 +65,8 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
