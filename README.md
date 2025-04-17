@@ -40,6 +40,7 @@ I frequently update this repository with:
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,4 +54,8 @@ I frequently update this repository with:
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
