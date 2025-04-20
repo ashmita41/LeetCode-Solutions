@@ -75,6 +75,7 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Tree
 |  |
 | ------- |
@@ -100,6 +101,7 @@ I frequently update this repository with:
 | ------- |
 | [0148-sort-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Merge Sort
 |  |
 | ------- |
@@ -108,4 +110,5 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 <!---LeetCode Topics End-->
