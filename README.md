@@ -74,6 +74,7 @@ I frequently update this repository with:
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Tree
@@ -99,6 +100,7 @@ I frequently update this repository with:
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -110,7 +112,12 @@ I frequently update this repository with:
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
