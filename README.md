@@ -136,6 +136,7 @@ I frequently update this repository with:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
