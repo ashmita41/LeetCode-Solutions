@@ -51,6 +51,7 @@ I frequently update this repository with:
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -104,6 +105,7 @@ I frequently update this repository with:
 | ------- |
 | [0049-group-anagrams](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -121,6 +123,7 @@ I frequently update this repository with:
 | ------- |
 | [0049-group-anagrams](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-height-checker](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1137-height-checker) |
