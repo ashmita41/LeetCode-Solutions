@@ -116,6 +116,7 @@ I frequently update this repository with:
 | [1306-minimum-absolute-difference](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Merge Sort
 |  |
@@ -136,6 +137,7 @@ I frequently update this repository with:
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 ## String
 |  |
