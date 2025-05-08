@@ -83,6 +83,7 @@ I frequently update this repository with:
 | [0049-group-anagrams](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Tree
@@ -134,6 +135,7 @@ I frequently update this repository with:
 | [0056-merge-intervals](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1137-height-checker) |
