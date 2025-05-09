@@ -48,6 +48,7 @@ I frequently update this repository with:
 | [0237-delete-node-in-a-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ I frequently update this repository with:
 | [0908-middle-of-the-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
