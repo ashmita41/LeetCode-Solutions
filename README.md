@@ -47,6 +47,7 @@ I frequently update this repository with:
 | [0234-palindrome-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -66,6 +67,7 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -140,6 +142,7 @@ I frequently update this repository with:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1072-next-greater-node-in-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1137-height-checker](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
@@ -193,4 +196,8 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1072-next-greater-node-in-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
