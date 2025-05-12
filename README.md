@@ -81,6 +81,7 @@ I frequently update this repository with:
 | [0202-happy-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1610-xor-operation-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +165,7 @@ I frequently update this repository with:
 | [0693-binary-number-with-alternating-bits](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0899-binary-gap](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0899-binary-gap) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1610-xor-operation-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 ## Counting
 |  |
 | ------- |
