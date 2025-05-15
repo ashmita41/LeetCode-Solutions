@@ -141,6 +141,7 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0079-word-search) |
@@ -197,6 +198,7 @@ I frequently update this repository with:
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0079-word-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## String Matching
@@ -219,4 +221,8 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1585-the-kth-factor-of-n) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
