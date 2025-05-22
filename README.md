@@ -82,6 +82,7 @@ I frequently update this repository with:
 | ------- |
 | [0202-happy-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0755-reach-a-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0755-reach-a-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1585-the-kth-factor-of-n](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
@@ -197,6 +198,7 @@ I frequently update this repository with:
 ## Binary Search
 |  |
 | ------- |
+| [0755-reach-a-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0755-reach-a-number) |
 | [0907-koko-eating-bananas](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
