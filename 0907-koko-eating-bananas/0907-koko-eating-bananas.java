@@ -1,35 +1,33 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
         int max = 0;
-        long total = 0;
-        for (int pile : piles) {
-            max = Math.max(max, pile);
-            total += pile;
-        }
-
-        // Minimum possible eating speed must be at least total/h
-        int min = (int)((total + h - 1) / h);  // equivalent to ceil(total / h)
-        int result = max;
-
-        while (min <= max) {
-            int mid = min + (max - min) / 2;
-            if (isFit(piles, mid, h)) {
-                result = mid;
-                max = mid - 1;
-            } else {
-                min = mid + 1;
+        for (int num : piles) {
+            if (num > max) {
+                max = num;
             }
         }
-
-        return result;
-    }
-
-    boolean isFit(int[] piles, int k, int h) {
-        long hours = 0;
-        for (int pile : piles) {
-            hours += (pile + k - 1) / k;
-            if (hours > h) return false;
+        int left = 1; // Minimum possible speed
+        int right = max; // Maximum possible speed
+        
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+            if (canEatAll(piles, mid, h)) {
+                right = mid; // Try to find a smaller speed
+            } else {
+                left = mid + 1; // Need a larger speed
+            }
         }
-        return true;
+        return left;
+    }
+    
+    private boolean canEatAll(int[] piles, int k, int h) {
+        int totalHours = 0;
+        for (int pile : piles) {
+            totalHours += (pile + k - 1) / k; // Equivalent to Math.ceil(pile / k)
+            if (totalHours > h) {
+                return false; // Early exit if exceeds h
+            }
+        }
+        return totalHours <= h;
     }
 }
