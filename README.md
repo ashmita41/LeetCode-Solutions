@@ -153,6 +153,7 @@ I frequently update this repository with:
 | [0059-spiral-matrix-ii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0198-house-robber](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -247,6 +248,7 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0198-house-robber](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0198-house-robber) |
 ## Greedy
 |  |
 | ------- |
