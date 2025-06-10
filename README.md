@@ -179,6 +179,7 @@ I frequently update this repository with:
 | [0049-group-anagrams](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
@@ -255,4 +256,8 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0055-jump-game) |
+## Sliding Window
+|  |
+| ------- |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
