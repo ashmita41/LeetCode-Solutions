@@ -171,6 +171,7 @@ I frequently update this repository with:
 | [1137-height-checker](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
+| [1449-print-words-vertically](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1449-print-words-vertically) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -187,6 +188,7 @@ I frequently update this repository with:
 | [0079-word-search](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [1449-print-words-vertically](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1449-print-words-vertically) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
@@ -254,6 +256,7 @@ I frequently update this repository with:
 | [0054-spiral-matrix](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0921-spiral-matrix-iii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
+| [1449-print-words-vertically](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1449-print-words-vertically) |
 ## Prefix Sum
 |  |
 | ------- |
