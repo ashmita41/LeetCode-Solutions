@@ -169,6 +169,7 @@ I frequently update this repository with:
 | [0907-koko-eating-bananas](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1137-height-checker](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -224,6 +225,7 @@ I frequently update this repository with:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0755-reach-a-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0755-reach-a-number) |
 | [0907-koko-eating-bananas](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
