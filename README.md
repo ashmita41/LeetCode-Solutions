@@ -74,6 +74,7 @@ I frequently update this repository with:
 | [0020-valid-parentheses](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0456-132-pattern](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
@@ -165,6 +166,7 @@ I frequently update this repository with:
 | [0215-kth-largest-element-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0456-132-pattern](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0907-koko-eating-bananas](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
@@ -223,6 +225,7 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0456-132-pattern](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0755-reach-a-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0755-reach-a-number) |
 | [0907-koko-eating-bananas](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -246,6 +249,7 @@ I frequently update this repository with:
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Backtracking
 |  |
@@ -281,4 +285,8 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
