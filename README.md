@@ -87,6 +87,7 @@ I frequently update this repository with:
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0202-happy-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
