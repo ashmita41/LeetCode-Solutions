@@ -110,11 +110,13 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -123,6 +125,7 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -196,6 +199,7 @@ I frequently update this repository with:
 | [0125-valid-palindrome](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0257-binary-tree-paths](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [1449-print-words-vertically](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1449-print-words-vertically) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
@@ -256,6 +260,7 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Number Theory
 |  |
 | ------- |
