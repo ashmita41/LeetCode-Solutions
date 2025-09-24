@@ -188,6 +188,7 @@ I frequently update this repository with:
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2048-build-array-from-permutation](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## String
 |  |
@@ -275,6 +276,7 @@ I frequently update this repository with:
 | [0059-spiral-matrix-ii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0921-spiral-matrix-iii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [1449-print-words-vertically](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1449-print-words-vertically) |
+| [2048-build-array-from-permutation](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 ## Prefix Sum
 |  |
 | ------- |
