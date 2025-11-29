@@ -185,6 +185,7 @@ I frequently update this repository with:
 | [1449-print-words-vertically](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1449-print-words-vertically) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -284,6 +285,7 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
