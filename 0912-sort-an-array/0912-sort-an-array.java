@@ -1,46 +1,42 @@
 class Solution {
     public int[] sortArray(int[] nums) {
 
-        if(nums.length == 1) {
-            return nums;
-        } 
-        int mid = nums.length / 2;
-        int[] left  = sortArray(Arrays.copyOfRange(nums, 0, mid));
-        int[] right = sortArray(Arrays.copyOfRange(nums, mid, nums.length));
+        //using quick sort
+        quickSort(nums, 0, nums.length - 1);
+        return nums;
 
-        return merge(left, right);
     }
 
-    public static int[] merge(int[] left, int[] right) {
-        int[] mix = new int[left.length + right.length];
-        int i = 0;
-        int j = 0;
-        int k = 0;
+    public static void quickSort(int[] nums, int low, int hi) {
+        if (low >= hi) {
+            return;
+        }
 
-        while(i<left.length && j<right.length) {
-            if(left[i] < right[j]) {
-                mix[k] = left[i];
-                i++;
-            } else {
-                mix[k] = right[j];
-                j++;
+        int s = low;
+        int e = hi;
+        int m = s + (e - s) / 2;
+        int pivot = nums[m];
+
+        while (s <= e) {
+            // no violation
+            while (nums[s] < pivot) {
+                s++;
             }
-            k++;
+            while (nums[e] > pivot) {
+                e--;
+            }
+
+            // if above does not match means violation
+            if (s <= e) {
+                int temp = nums[s];
+                nums[s] = nums[e];
+                nums[e] = temp;
+                s++;
+                e--;
+            }
         }
 
-        while(i<left.length) {
-            mix[k] = left[i];
-            k++;
-            i++;
-        }
-
-        while(j<right.length) {
-            mix[k] = right[j];
-            k++;
-            j++;
-        }
-
-        return mix;
+        quickSort(nums, low, e);
+        quickSort(nums, s, hi);
     }
-    
 }
