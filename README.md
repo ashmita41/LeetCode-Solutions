@@ -101,6 +101,7 @@ I frequently update this repository with:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -163,6 +164,7 @@ I frequently update this repository with:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
