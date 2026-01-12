@@ -181,6 +181,7 @@ I frequently update this repository with:
 | [0059-spiral-matrix-ii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0136-single-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0198-house-robber) |
@@ -236,6 +237,7 @@ I frequently update this repository with:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0899-binary-gap](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0899-binary-gap) |
