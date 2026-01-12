@@ -95,6 +95,7 @@ I frequently update this repository with:
 | [0189-rotate-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0268-missing-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0755-reach-a-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0755-reach-a-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
@@ -110,6 +111,7 @@ I frequently update this repository with:
 | [0141-linked-list-cycle](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -150,6 +152,7 @@ I frequently update this repository with:
 | [0148-sort-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -183,6 +186,7 @@ I frequently update this repository with:
 | [0198-house-robber](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -231,6 +235,7 @@ I frequently update this repository with:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0899-binary-gap](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0899-binary-gap) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -258,6 +263,7 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0755-reach-a-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0755-reach-a-number) |
 | [0907-koko-eating-bananas](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
