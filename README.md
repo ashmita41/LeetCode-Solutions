@@ -110,6 +110,7 @@ I frequently update this repository with:
 | [0049-group-anagrams](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -140,6 +141,7 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Sorting
@@ -150,6 +152,7 @@ I frequently update this repository with:
 | [0075-sort-colors](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -182,6 +185,7 @@ I frequently update this repository with:
 | [0075-sort-colors](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0198-house-robber) |
@@ -246,6 +250,7 @@ I frequently update this repository with:
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Counting Sort
