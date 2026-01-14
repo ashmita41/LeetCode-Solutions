@@ -186,6 +186,7 @@ I frequently update this repository with:
 | [0059-spiral-matrix-ii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0179-largest-number) |
@@ -331,6 +332,7 @@ I frequently update this repository with:
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0198-house-robber) |
 ## Greedy
 |  |
