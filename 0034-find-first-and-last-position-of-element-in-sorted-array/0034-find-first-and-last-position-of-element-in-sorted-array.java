@@ -1,36 +1,34 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int[] result = {-1, -1};
-        int left = binarySearch(nums, target, true);
-        int right = binarySearch(nums, target, false);
-        result[0] = left;
-        result[1] = right;
-        return result;        
+        int[] ans = { -1, -1 };
+        ans[0] = binarySearch(nums, true, target);
+        if (ans[0] != -1) {
+            ans[1] = binarySearch(nums, false, target);
+        }
+        return ans;
     }
 
-    private int binarySearch(int[] nums, int target, boolean isSearchingLeft) {
-        int left = 0;
-        int right = nums.length - 1;
-        int idx = -1;
+    public int binarySearch(int[] nums, boolean findFirstIndex, int target) {
+        int s = 0;
+        int e = nums.length - 1;
+        int ans = -1;
 
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            
-            if (nums[mid] > target) {
-                right = mid - 1;
-            } else if (nums[mid] < target) {
-                left = mid + 1;
+        while (s <= e) {
+            int m = s + (e - s) / 2;
+
+            if (nums[m] > target) {
+                e = m - 1;
+            } else if (nums[m] < target) {
+                s = m + 1;
             } else {
-                idx = mid;
-                if (isSearchingLeft) {
-                    right = mid - 1;
+                ans = m;
+                if (findFirstIndex) {
+                    e = m - 1;
                 } else {
-                    left = mid + 1;
+                    s = m + 1;
                 }
             }
         }
-
-        return idx;
+        return ans;
     }
-
 }
