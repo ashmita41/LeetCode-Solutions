@@ -90,6 +90,7 @@ I frequently update this repository with:
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0189-rotate-array) |
