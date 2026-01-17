@@ -78,6 +78,7 @@ I frequently update this repository with:
 | [0227-basic-calculator-ii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0456-132-pattern) |
+| [1021-remove-outermost-parentheses](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
@@ -243,6 +244,7 @@ I frequently update this repository with:
 | [0179-largest-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [1021-remove-outermost-parentheses](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1449-print-words-vertically](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1449-print-words-vertically) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
