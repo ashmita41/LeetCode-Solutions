@@ -106,6 +106,7 @@ I frequently update this repository with:
 | [1512-number-of-good-pairs](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1585-the-kth-factor-of-n](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
+| [1903-largest-odd-number-in-string](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -250,6 +251,7 @@ I frequently update this repository with:
 | [1449-print-words-vertically](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1449-print-words-vertically) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -352,6 +354,7 @@ I frequently update this repository with:
 | ------- |
 | [0055-jump-game](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [1903-largest-odd-number-in-string](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
