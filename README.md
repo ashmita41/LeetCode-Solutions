@@ -120,6 +120,7 @@ I frequently update this repository with:
 | [0142-linked-list-cycle-ii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -164,6 +165,7 @@ I frequently update this repository with:
 | [0169-majority-element](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0912-sort-an-array) |
@@ -206,6 +208,7 @@ I frequently update this repository with:
 | [0189-rotate-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0283-move-zeroes) |
