@@ -101,6 +101,7 @@ I frequently update this repository with:
 | [0189-rotate-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0258-add-digits](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -334,6 +335,7 @@ I frequently update this repository with:
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1585-the-kth-factor-of-n) |
 ## Simulation
 |  |
@@ -341,6 +343,7 @@ I frequently update this repository with:
 | [0043-multiply-strings](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0921-spiral-matrix-iii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [1449-print-words-vertically](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1449-print-words-vertically) |
