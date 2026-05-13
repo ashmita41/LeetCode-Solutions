@@ -179,6 +179,7 @@ I frequently update this repository with:
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2974-minimum-number-game](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## Merge Sort
 |  |
 | ------- |
@@ -244,6 +245,7 @@ I frequently update this repository with:
 | [1920-build-array-from-permutation](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2048-build-array-from-permutation](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2974-minimum-number-game](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## String
 |  |
 | ------- |
@@ -290,6 +292,7 @@ I frequently update this repository with:
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [2974-minimum-number-game](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## Quickselect
 |  |
 | ------- |
@@ -352,6 +355,7 @@ I frequently update this repository with:
 | [1449-print-words-vertically](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1449-print-words-vertically) |
 | [1920-build-array-from-permutation](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2048-build-array-from-permutation](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
+| [2974-minimum-number-game](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## Prefix Sum
 |  |
 | ------- |
