@@ -112,6 +112,7 @@ I frequently update this repository with:
 | [1585-the-kth-factor-of-n](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Hash Table
 |  |
 | ------- |
