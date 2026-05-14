@@ -244,6 +244,7 @@ I frequently update this repository with:
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2048-build-array-from-permutation](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2974-minimum-number-game](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## String
@@ -266,6 +267,7 @@ I frequently update this repository with:
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Bit Manipulation
 |  |
 | ------- |
