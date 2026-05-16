@@ -73,6 +73,7 @@ I frequently update this repository with:
 | [0908-middle-of-the-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
@@ -245,6 +246,7 @@ I frequently update this repository with:
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2048-build-array-from-permutation](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2974-minimum-number-game](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
@@ -268,6 +270,7 @@ I frequently update this repository with:
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Bit Manipulation
 |  |
