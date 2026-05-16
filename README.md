@@ -114,6 +114,7 @@ I frequently update this repository with:
 | [1610-xor-operation-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -249,6 +250,7 @@ I frequently update this repository with:
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/ashmita41/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## String
