@@ -85,6 +85,7 @@ I frequently update this repository with:
 | [0232-implement-queue-using-stacks](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Recursion
@@ -133,6 +134,7 @@ I frequently update this repository with:
 | [0268-missing-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1256-rank-transform-of-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -227,6 +229,7 @@ I frequently update this repository with:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0907-koko-eating-bananas](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -346,6 +349,7 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Backtracking
 |  |
