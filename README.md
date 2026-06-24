@@ -81,6 +81,7 @@ I frequently update this repository with:
 | [0020-valid-parentheses](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [1021-remove-outermost-parentheses](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -411,9 +412,11 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
