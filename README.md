@@ -79,6 +79,7 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -417,6 +418,7 @@ I frequently update this repository with:
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
