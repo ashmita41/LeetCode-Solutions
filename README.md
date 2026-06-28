@@ -79,6 +79,7 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
@@ -143,12 +144,14 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
@@ -158,6 +161,7 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
 |  |
