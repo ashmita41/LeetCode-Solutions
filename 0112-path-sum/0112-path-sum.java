@@ -14,19 +14,29 @@
  * }
  */
 class Solution {
+
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        // Base case: if root is null, no path exists
-        if (root == null) {
+
+        if(root == null)
             return false;
+
+        return helper(root, targetSum, 0);
+    }
+
+    public boolean helper(TreeNode root, int target, int sum) {
+
+        if(root == null)
+            return false;
+
+        // Current node contributes its own value
+        sum += root.val;
+
+        // If we're at a leaf, decide here
+        if(root.left == null && root.right == null) {
+            return sum == target;
         }
-        
-        // If it's a leaf node, check if the value matches targetSum
-        if (root.left == null && root.right == null) {
-            return root.val == targetSum;
-        }
-        
-        // Recursive call on left and right subtree with updated target
-        int remainingSum = targetSum - root.val;
-        return hasPathSum(root.left, remainingSum) || hasPathSum(root.right, remainingSum);
+
+        return helper(root.left, target, sum)
+            || helper(root.right, target, sum);
     }
 }
