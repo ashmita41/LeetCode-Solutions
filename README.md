@@ -148,6 +148,7 @@ I frequently update this repository with:
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
@@ -181,6 +182,7 @@ I frequently update this repository with:
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
@@ -315,6 +317,7 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0899-binary-gap](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0899-binary-gap) |
@@ -349,6 +352,7 @@ I frequently update this repository with:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
