@@ -151,6 +151,7 @@ I frequently update this repository with:
 | [0144-binary-tree-preorder-traversal](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -166,6 +167,7 @@ I frequently update this repository with:
 | [0112-path-sum](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -189,6 +191,7 @@ I frequently update this repository with:
 | [0144-binary-tree-preorder-traversal](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
