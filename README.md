@@ -182,6 +182,7 @@ I frequently update this repository with:
 | [0257-binary-tree-paths](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -193,6 +194,7 @@ I frequently update this repository with:
 | [0199-binary-tree-right-side-view](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -498,4 +500,12 @@ I frequently update this repository with:
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
