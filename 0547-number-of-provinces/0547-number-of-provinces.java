@@ -1,11 +1,16 @@
 class Solution {
-    private static void dfs(int[][] isConnected, int u, boolean[] visited) {
+    private static void bfs(int[][] isConnected, int u, boolean[] visited) {
+        Queue<Integer> q = new ArrayDeque<>();
         visited[u] = true;
+        q.add(u);
 
-        //process all neighbours
-        for(int v = 0; v < isConnected.length; v++) {
-            if(!visited[v] && isConnected[u][v] == 1) {
-                dfs(isConnected, v, visited);
+        while(!q.isEmpty()) {
+            int node = q.peek();
+            q.remove();
+            for(int v = 0; v < isConnected.length; v++) {
+                if(isConnected[u][v] == 1 && !visited[v]) {
+                    bfs(isConnected, v, visited);
+                }
             }
         }
     }
@@ -15,7 +20,7 @@ class Solution {
         for(int u = 0; u < isConnected.length; u++) {
             if(!visited[u]) {
                 cnt++;
-                dfs(isConnected, u, visited);
+                bfs(isConnected, u, visited);
             }
         }
         return cnt;
