@@ -201,6 +201,7 @@ I frequently update this repository with:
 | [0404-sum-of-left-leaves](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -303,6 +304,7 @@ I frequently update this repository with:
 | [0907-koko-eating-bananas](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0921-spiral-matrix-iii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
+| [0994-rotting-oranges](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1019-squares-of-a-sorted-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -408,6 +410,7 @@ I frequently update this repository with:
 | [0289-game-of-life](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0733-flood-fill](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0921-spiral-matrix-iii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
+| [0994-rotting-oranges](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## String Matching
 |  |
