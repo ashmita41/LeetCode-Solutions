@@ -185,6 +185,7 @@ I frequently update this repository with:
 | [0404-sum-of-left-leaves](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -200,6 +201,7 @@ I frequently update this repository with:
 | [0226-invert-binary-tree](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Binary Tree
@@ -300,6 +302,7 @@ I frequently update this repository with:
 | [0503-next-greater-element-ii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0912-sort-an-array) |
@@ -408,6 +411,7 @@ I frequently update this repository with:
 | [0079-word-search](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0289-game-of-life) |
+| [0695-max-area-of-island](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0921-spiral-matrix-iii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -518,6 +522,7 @@ I frequently update this repository with:
 | ------- |
 | [0200-number-of-islands](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
