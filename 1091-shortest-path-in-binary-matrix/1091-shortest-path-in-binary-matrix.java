@@ -28,9 +28,6 @@ class Solution {
                     continue;
                 }
 
-                if (r == n - 1 && c == n - 1)
-                    return dis + 1;
-
                 if (grid[r][c] == 0) {
                     queue.offer(new int[]{r, c, dis + 1});
                     grid[r][c] = 1;
