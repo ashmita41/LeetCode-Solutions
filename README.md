@@ -204,6 +204,7 @@ I frequently update this repository with:
 | [0695-max-area-of-island](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -312,6 +313,7 @@ I frequently update this repository with:
 | [1031-add-to-array-form-of-integer](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1137-height-checker](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
@@ -415,6 +417,7 @@ I frequently update this repository with:
 | [0733-flood-fill](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0921-spiral-matrix-iii](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/ashmita41/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashmita41/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## String Matching
 |  |
