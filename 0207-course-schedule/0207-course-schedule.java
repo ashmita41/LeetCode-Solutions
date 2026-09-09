@@ -1,41 +1,43 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        ArrayList<ArrayList<Integer>> adj = new ArrayList<>(); 
-        int[] indegree = new int[numCourses];
-        for(int i = 0; i < numCourses; i++) {
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+        boolean[] visited = new boolean[numCourses];
+        boolean[] inRecursion = new boolean[numCourses];
+        for(int i = 0; i<numCourses; i++) {
             adj.add(new ArrayList<>());
         }
-        for(int j = 0; j < prerequisites.length; j++) {
-            int v = prerequisites[j][0];
-            int u = prerequisites[j][1];
+
+        for(int[] edge : prerequisites) {
+            int u = edge[1];
+            int v = edge[0];
+
             adj.get(u).add(v);
-            indegree[v]++;
         }
 
-        Queue<Integer> q = new ArrayDeque<>();
-        for(int i = 0; i < indegree.length; i++) {
-            if(indegree[i] == 0) {
-                q.add(i);
-            }
-        }
-        ArrayList<Integer> result = new ArrayList<>();
-
-        //bfs
-        while(!q.isEmpty()) {
-            int curr = q.remove();
-            result.add(curr);
-            for(int v : adj.get(curr)) {
-                indegree[v]--;
-                if(indegree[v] == 0) {
-                    q.add(v);
-                }
+        for(int j = 0; j < numCourses; j++) {
+            if(!visited[j] && dfs(adj, j, visited, inRecursion)) {
+                return false;
             }
         }
 
-        if(result.size() == numCourses) {
-            return true;
+        return true;
+    }
+
+    private boolean dfs(ArrayList<ArrayList<Integer>> adj, int u , boolean[] visited, boolean[] inRecursion) {
+        visited[u] = true;
+        inRecursion[u] = true;
+
+        for(int v : adj.get(u)) {
+            if(inRecursion[v]) {
+                return true;
+            }
+            
+            if(!visited[v] && dfs(adj, v, visited, inRecursion)) {
+                return true;
+            }
         }
 
+        inRecursion[u] = false;
         return false;
     }
 }
